@@ -1,0 +1,523 @@
+   "628123456789@s.whatsapp.net": {
+
+      "exp": 88428,
+
+      "limit": 2.3370653289641392e+30,
+
+      "joinlimit": 1,
+
+      "spammer": 0,
+
+      "money": 0,
+
+      "bank": 8.999995737990009e+25,
+
+      "health": 100,
+
+      "tiketcoin": 84,
+
+      "healtmonster": 10000001000104,
+
+      "armormonster": 0,
+
+      "lastclaim": 1718371401107,
+
+      "registered": true,
+
+      "name": "hoh",
+
+      "age": 21,
+
+      "regTime": 1717337726190,
+
+      "afk": -1,
+
+      "afkReason": "",
+
+      "pasangan": "",
+
+      "sahabat": "",
+
+      "banned": false,
+
+      "premium": true,
+
+      "moderator": true,
+
+      "online": false,
+
+      "acc": false,
+
+      "end": false,
+
+      "warn": 0,
+
+      "count": 0,
+
+      "pc": 0,
+
+      "expg": 0,
+
+      "level": 23,
+
+      "role": "Beginner",
+
+      "autolevelup": true,
+
+      "potion": 1000001000043,
+
+      "trash": 0,
+
+      "sampah": 1000038,
+
+      "wood": 718,
+
+      "rock": 0,
+
+      "string": 1000000,
+
+      "emerald": 0,
+
+      "diamond": 1000001254677,
+
+      "berlian": 1000001000009,
+
+      "emas": 1000001000015,
+
+      "gold": 0,
+
+      "iron": 1000001999997,
+
+      "pisang": 1098116,
+
+      "anggur": 10998331,
+
+      "mangga": 1008374,
+
+      "jeruk": 1098630,
+
+      "apel": 1198181,
+
+      "bibitpisang": 1002585,
+
+      "bibitanggur": 1003273,
+
+      "bibitmangga": 10002794,
+
+      "bibitjeruk": 1000595,
+
+      "bibitapel": 1004461,
+
+      "gardenboxs": 1000000999990,
+
+      "spagety": 0,
+
+      "stamina": 0,
+
+      "bensin": 0,
+
+      "botol": 999991011198,
+
+      "kardus": 1000001013439,
+
+      "kaleng": 1000001014447,
+
+      "aqua": 1000001000056,
+
+      "kayu": 1008341,
+
+      "batu": 1000000,
+
+      "kapak": 0,
+
+      "obat": 0,
+
+      "clan": 0,
+
+      "pickaxe": 0,
+
+      "cupon": 0,
+
+      "gems": 0,
+
+      "boxs": 0,
+
+      "common": 100000034,
+
+      "uncommon": 10000004,
+
+      "mythic": 1000002,
+
+      "legendary": 1000011000011,
+
+      "pet": 100010100078,
+
+      "ramuan": 22,
+
+      "ramuannagalast": 0,
+
+      "ramuankyubilast": 0,
+
+      "ramuanphonixlast": 0,
+
+      "ramuanserigalalast": 0,
+
+      "ramuancentaurlast": 0,
+
+      "ramuankudalast": 0,
+
+      "ramuankucinglast": 0,
+
+      "ramuanrubahlast": 0,
+
+      "ramuangriffinlast": 0,
+
+      "ramuanherolast": 0,
+
+      "horse": 0,
+
+      "horseexp": 0,
+
+      "cat": 0,
+
+      "catngexp": 0,
+
+      "fox": 0,
+
+      "foxexp": 0,
+
+      "dog": 0,
+
+      "dogexp": 0,
+
+      "hero": 1,
+
+      "exphero": 0,
+
+      "pillhero": 0,
+
+      "herolastclaim": 0,
+
+      "udang": 383,
+
+      "hiu": 398,
+
+      "lobster": 468,
+
+      "kumba": 0,
+
+      "ikan": 139,
+
+      "buntal": 56,
+
+      "gurita": 172,
+
+      "dory": 452,
+
+      "cumi": 483,
+
+      "kepiting": 461,
+
+      "paus": 34,
+
+      "orca": 423,
+
+      "umpan": 9999299,
+
+      "pancingan": 5,
+
+      "anakpancingan": 0,
+
+      "anakkucing": 1184595300,
+
+      "anakkuda": 1499988006000,
+
+      "anakrubah": 3221451000,
+
+      "anakanjing": 0,
+
+      "anakserigala": 29699703000,
+
+      "anaknaga": 32999999994300,
+
+      "anakphonix": 2999997003000,
+
+      "anakkyubi": 2980797003000,
+
+      "anakgriffin": 909000,
+
+      "anakcentaur": 30000000000000,
+
+      "kucing": 6902939,
+
+      "kucinglastclaim": 0,
+
+      "kuda": 500002001,
+
+      "kudalastclaim": 0,
+
+      "rubah": 3275534,
+
+      "rubahlastclaim": 0,
+
+      "serigala": 10001101,
+
+      "serigalalastclaim": 0,
+
+      "naga": 1000000000003,
+
+      "nagalastclaim": 0,
+
+      "phonix": 1000001001,
+
+      "phonixlastclaim": 0,
+
+      "anjing": 0,
+
+      "anjinglastclaim": 0,
+
+      "kyubi": 1000004100,
+
+      "kyubilastclaim": 0,
+
+      "griffin": 707214993,
+
+      "griffinlastclaim": 0,
+
+      "centaur": 1000000000001,
+
+      "centaurlastclaim": 0,
+
+      "makananpet": 930689651040020,
+
+      "makananphonix": 1000000,
+
+      "makanannaga": 1000000,
+
+      "makanangriffin": 1000007,
+
+      "makanankyubi": 1000005,
+
+      "makanancentaur": 1000004,
+
+      "horselastfeed": 0,
+
+      "catlastfeed": 0,
+
+      "foxlastfeed": 0,
+
+      "doglastfeed": 0,
+
+      "armor": 5,
+
+      "armordurability": 0,
+
+      "weapon": 0,
+
+      "weapondurability": 0,
+
+      "sword": 1000002000886,
+
+      "sworddurability": 100,
+
+      "pickaxedurability": 0,
+
+      "fishingrod": 0,
+
+      "fishingroddurability": 0,
+
+      "judilast": 0,
+
+      "reglast": 0,
+
+      "unreglast": 0,
+
+      "snlast": 0,
+
+      "spinlast": 0,
+
+      "kerjasatu": 0,
+
+      "kerjadua": 0,
+
+      "kerjatiga": 0,
+
+      "kerjaempat": 0,
+
+      "kerjalima": 0,
+
+      "kerjaenam": 0,
+
+      "kerjatujuh": 0,
+
+      "kerjadelapan": 0,
+
+      "kerjasembilan": 0,
+
+      "kerjasepuluh": 0,
+
+      "kerjasebelas": 0,
+
+      "kerjaduabelas": 0,
+
+      "kerjatigabelas": 0,
+
+      "kerjaempatbelas": 0,
+
+      "kerjalimabelas": 0,
+
+      "kerjaenambelas": 0,
+
+      "kerjatujuhbelas": 0,
+
+      "kerjadelapanbelas": 0,
+
+      "kerjasembilanbelas": 0,
+
+      "kerjaduapuluh": 0,
+
+      "kerjaduasatu": 0,
+
+      "kerjaduadua": 0,
+
+      "kerjaduatiga": 0,
+
+      "kerjaduaempat": 0,
+
+      "kerjadualima": 0,
+
+      "kerjaduaenam": 0,
+
+      "kerjaduatujuh": 0,
+
+      "kerjaduadelapan": 0,
+
+      "kerjaduasembilan": 0,
+
+      "kerjatigapuluh": 0,
+
+      "lastramuanclaim": 1718509058049,
+
+      "lastpotionclaim": 0,
+
+      "laststringclaim": 0,
+
+      "lastswordclaim": 0,
+
+      "lastweaponclaim": 0,
+
+      "lastsironclaim": 0,
+
+      "lastsmancingclaim": 0,
+
+      "lastmancingeasy": 1718506904741,
+
+      "lastmancingnormal": 0,
+
+      "lastmancinghard": 0,
+
+      "lastmancingextreme": 0,
+
+      "lastwarpet": 0,
+
+      "lastspam": 0,
+
+      "lastpekerjaan": 0,
+
+      "lastadventure": 1718507746565,
+
+      "lastfishing": 0,
+
+      "lastdungeon": 0,
+
+      "lastcrusade": 0,
+
+      "lastduel": 0,
+
+      "lastcode": 0,
+
+      "lastlink": 0,
+
+      "lastnambang": 1718506407034,
+
+      "lastmining": 1718462091831,
+
+      "lasthunt": 1718507634252,
+
+      "lastweekly": 1717987269907,
+
+      "lastmonthly": 1717337794542,
+
+      "lastrob": 1718104864537,
+
+      "lastbunuhi": 1718113284783,
+
+      "lastopen": 1718468707784,
+
+      "lasteasy": 0,
+
+      "lastmulung": 1718508698469,
+
+      "lastdagang": 0,
+
+      "lastnebang": 1718506403965,
+
+      "lastberkebon": 0,
+
+      "lastberburu": 0,
+
+      "lastngojek": 0,
+
+      "akinator": {
+
+        "sesi": false,
+
+        "server": null,
+
+        "frontaddr": null,
+
+        "session": null,
+
+        "signature": null,
+
+        "question": null,
+
+        "progression": null,
+
+        "step": null,
+
+        "soal": null
+
+      },
+
+      "premiumDate": 0,
+
+      "bannedDate": 0,
+
+      "petFood": 0,
+
+      "balance": 0,
+
+      "lumba": 291,
+
+      "catexp": 0,
+
+      "sn": "f8964127aee156fdf25324990cbca1df",
+
+      "lastredeem": 1718506179736,
+
+      "pedang": 0,
+
+      "uang": 28000,
+
+      "lastAirdrop": 1718329919111,
+
+      "lastbisnis": 1718412097095,
+
+      "claimedAnniversary": true,
+
+      "lastdaily": 1718467372888,
+
+      "emasbiasa": null
+
+    },
